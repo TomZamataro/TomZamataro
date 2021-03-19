@@ -1,6 +1,26 @@
-### Hi there 👋
+# Jerry? oh, I ate that mice, yes it was very much satisfactory after all that litle bastard he put me throught...
+# yes ofcourse I miss him but that's bisides the point
 
-**TomZamataro/TomZamataro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## And the point is, well, me I guess
+
+# So, leanguages, softwares, IDEs, framew... u got the point, that I know (kinda):
+
+0.
+  - C#;
+  - Unity, yes the 3D one;
+  - Visual Studio;
+  - VS Code;
+  - Git;
+1.
+  - Javascript (ES6);
+  - a bit of:
+    - HTML (don't like it);
+    - CSS (even less);
+2. 
+  - a bit of:
+    - Python.
+
+# Where I learned those:
 
 Here are some ideas to get you started:
 
