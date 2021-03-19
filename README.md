@@ -24,8 +24,8 @@ yes ofcourse I miss him but that's bisides the point.
 
 ### If u think my collaboration would be useful, or for any other reason wants to talk to me:
 
-- **email:** tomzamataro@gmail.com;
-- **linkedin:** https://www.linkedin.com/in/tom-zamataro/;
+- **email:** <tomzamataro@gmail.com>;
+- **linkedin:** [linkedin/tom-zamataro](https://www.linkedin.com/in/tom-zamataro/ "My Linkedin profile");
 - **and if urgent (*really urgent*), phone:** +55 (81)99349-0769.
 
 ### Genuily do not know the pronouns I go by, but I'm going with **she/her** for now.
