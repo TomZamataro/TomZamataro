@@ -1,4 +1,4 @@
-Jerry? oh, I ate that mice, yes it was very much satisfactory after all that litle bastard he put me throught...<br>
+Jerry? oh, I ate that mice, yes it was very much satisfactory after all that litle bastard he put me through...<br>
 yes ofcourse I miss him but that's bisides the point.
 ================================================================================================================================================================================
 
@@ -20,7 +20,7 @@ So, leanguages, softwares, IDEs, framew... u got the point, that I know (kinda):
 
 ### Where I learned those:
 
-- **1 to 5:** At ETE Cícero Dias (brazilian) throught a integrated technical course - finished, 1440h;
+- **1 to 5:** At ETE Cícero Dias (brazilian) through a integrated technical course - finished, 1440h;
 - **6 and 7:** By the "Keeping Up With The Javascripts: ES6" course by Pirple.com - ongoing, follow the progress in the "pirple" repository;
 - **8:** By myself, and some free online events (used only for guide lines).
 
