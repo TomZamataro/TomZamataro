@@ -1,5 +1,4 @@
-# Jerry? oh, I ate that mice, yes it was very much satisfactory after all that litle bastard he put me throught... <br>
-yes ofcourse I miss him but that's bisides the point
+# Jerry? oh, I ate that mice, yes it was very much satisfactory after all that litle bastard he put me throught... <br> yes ofcourse I miss him but that's bisides the point
 
 
 ## And the point is, well, me I guess
