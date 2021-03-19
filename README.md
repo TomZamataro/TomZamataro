@@ -1,31 +1,31 @@
 # Jerry? oh, I ate that mice, yes it was very much satisfactory after all that litle bastard he put me throught...<br> yes ofcourse I miss him but that's bisides the point
 
-### And the point is, well, me I guess<br> So, leanguages, softwares, IDEs, framew... u got the point, that I know (kinda):
+### And the point is, well, me I guess.<br><br> So, leanguages, softwares, IDEs, framew... u got the point, that I know (kinda):
 
-0. come back to it later just hold on.
-  - C#;
-  - Unity, yes the 3D one;
-  - Visual Studio;
-  - VS Code;
-  - Git;
-1. keep holding.
-  - Javascript (ES6);
-  - a bit of:
-    - HTML (don't like it);
-    - CSS (even less);
-2. just a litle more.
-  - a bit of:
-    - Python.
+1. **C#;**
+2. **Unity, yes the 3D one;**
+3. **Visual Studio;**
+4. **VS Code;**
+5. **Git;**
+6. **Javascript (ES6);**
+7. **a bit of:**
+    - **HTML (don't like it);**
+    - **CSS (even less);**
+8. **a bit of:**
+    - **Python.**
 
 ### Where I learned those:
 
-Here are some ideas to get you started:
+- **1 to 5:** At ETE Cícero Dias (brazilian) throught a integrated technical course - finished, 1440h;
+- **6 and 7:** By the "Keeping Up With The Javascripts: ES6" course by Pirple.com - ongoing, follow the progress in the "pirple" repository;
+- **8:** By myself, and some free online events (used only for guide lines).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### If u think my collaboration would be useful, or for any other reason wants to talk to me:
+
+- **email:** tomzamataro@gmail.com;
+- **linkedin:** https://www.linkedin.com/in/tom-zamataro/;
+- **and if urgent (*realy urgent*), phone:** +55 (81)99349-0769.
+
+### And, genuily do not know the pronouns I go by, but I going with **she/her** for now.
+
+### And, dunno, I'm a magician, that's my *fun fact*, 'kay byeeee
