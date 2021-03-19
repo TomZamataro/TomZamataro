@@ -1,4 +1,6 @@
-# Jerry? oh, I ate that mice, yes it was very much satisfactory after all that litle bastard he put me throught...<br> yes ofcourse I miss him but that's bisides the point
+Jerry? oh, I ate that mice, yes it was very much satisfactory after all that litle bastard he put me throught...<br>
+yes ofcourse I miss him but that's bisides the point.
+===================================================================================================================================================================================
 
 ### And the point is, well, me I guess.<br><br> So, leanguages, softwares, IDEs, framew... u got the point, that I know (kinda):
 
@@ -26,6 +28,6 @@
 - **linkedin:** https://www.linkedin.com/in/tom-zamataro/;
 - **and if urgent (*really urgent*), phone:** +55 (81)99349-0769.
 
-### And, genuily do not know the pronouns I go by, but I going with **she/her** for now.
+### Genuily do not know the pronouns I go by, but I'm going with **she/her** for now.
 
 ### And, dunno, I'm a magician, that's my *fun fact*, 'kay byeeee
