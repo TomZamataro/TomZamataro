@@ -1,8 +1,10 @@
 Jerry? oh, I ate that mice, yes it was very much satisfactory after all that litle bastard he put me throught...<br>
 yes ofcourse I miss him but that's bisides the point.
-===================================================================================================================================================================================
+================================================================================================================================================================================
 
-### And the point is, well, me I guess.<br><br> So, leanguages, softwares, IDEs, framew... u got the point, that I know (kinda):
+### And the point is, well, me I guess.<br>
+<br>
+So, leanguages, softwares, IDEs, framew... u got the point, that I know (kinda):
 
 1. **C#;**
 2. **Unity, yes the 3D one;**
