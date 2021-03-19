@@ -24,7 +24,7 @@
 
 - **email:** tomzamataro@gmail.com;
 - **linkedin:** https://www.linkedin.com/in/tom-zamataro/;
-- **and if urgent (*realy urgent*), phone:** +55 (81)99349-0769.
+- **and if urgent (*really urgent*), phone:** +55 (81)99349-0769.
 
 ### And, genuily do not know the pronouns I go by, but I going with **she/her** for now.
 
